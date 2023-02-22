@@ -1,9 +1,0 @@
-.a {
-    table-layout: auto;
-}
-.b {
-    table-layout: auto; width: 100%;
-}
-.c{
-    table-layout: fixed; width: 200px;
-}
