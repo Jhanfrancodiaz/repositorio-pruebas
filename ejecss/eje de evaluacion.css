@@ -1,0 +1,12 @@
+h1 {
+    text-align: center; 
+    color: rgb(136, 31, 31);
+}
+.a {text-align: start;
+color: rgb(46, 46, 134);
+text-decoration: underline;  ; }
+ 
+.b { text-transform: capitalize; 
+ font-size: 90%;}
+
+.c { text-transform: uppercase;}

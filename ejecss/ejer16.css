@@ -1,0 +1,8 @@
+.a{
+    border-collapse: separate;
+}
+.b{
+    border-collapse: collapse;
+}
+tr, td,th{ border: 2px solid rgb(216, 24, 24);
+background-color: white;}
